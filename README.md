@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Ritu Barhate from Pune, Maharashtra.<br><br>- 🔭 I’m working as Software Support Specialist.<br>- 📚 I'm currently learning Terraform.<br>- ⚡ In my free time I Take online courses or tutorials to learn a new skill, language.</p>
+<p align="left">I'm Ritu Barhate from Pune, Maharashtra.<br><br>- 🔭 I’m Devops/SRE Enthusiast .<br>- ⚡ In my free time I Take online courses or tutorials to learn a new skill, language.</p>
 
 ###
 
@@ -56,6 +56,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy logo"  />
 </div>
 
 ###
